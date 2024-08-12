@@ -40,18 +40,18 @@ Hi there! I'm a dedicated developer and the proud owner of a thriving Discord sh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=try.fun&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=try.fun&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=try.fun&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
