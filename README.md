@@ -40,20 +40,21 @@ Hi there! I'm a dedicated developer and the proud owner of a thriving Discord sh
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Res-Codes&show_icons=true&theme=radical" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Res-Codes&theme=radical" alt="GitHub Streak" width="48%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Res-Codes&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Res-Codes&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developed%20with%20love%20by-yourusername-7289DA?style=for-the-badge&logo=github" alt="Developed with Love" />
+  <img src="https://img.shields.io/badge/Developed%20with%20love%20by-Res-Codes-7289DA?style=for-the-badge&logo=github" alt="Developed with Love" />
 </p>
+
