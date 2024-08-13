@@ -51,9 +51,9 @@ Hi there! I'm a dedicated developer and the proud owner of a thriving Discord sh
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=try.fun&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=20by-Username-7289DA&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developed%20with%20love%20by-try.fun-7289DA?style=for-the-badge&logo=github" alt="Developed with Love" />
+  <img src="https://img.shields.io/badge/Developed%20with%20love%20by-Username-7289DA?style=for-the-badge&logo=github" alt="Developed with Love" />
 </p>
