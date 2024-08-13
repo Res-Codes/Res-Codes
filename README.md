@@ -45,13 +45,13 @@ Hi there! I'm a dedicated developer and the proud owner of a thriving Discord sh
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=try.fun&theme=radical" alt="Profile Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=username&theme=radical" alt="Profile Summary" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=20by-Username-7289DA&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=20by-Try.Fun-7289DA&label=Profile%20views&color=7289DA&style=flat-square" alt="Profile Views" />
 </p>
 
 <p align="center">
