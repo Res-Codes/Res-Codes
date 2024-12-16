@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://discord.gg/res-codes">
+  <a href="https://discord.gg/XuhkBB247D">
     <img src="https://img.shields.io/badge/Join%20Us%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
   </a>
 </p>
@@ -35,7 +35,7 @@ Hi there! I'm a dedicated developer and the proud owner of a thriving Discord sh
 
 ### 🌐 Connect with Me
 
-- 💬 Join the [Discord Community](https://discord.gg/res-codes) and be part of the conversation!
+- 💬 Join the [Discord Community](https://discord.gg/XuhkBB247D) and be part of the conversation!
 
 ---
 
